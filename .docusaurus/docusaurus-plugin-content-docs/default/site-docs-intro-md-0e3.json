@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Welcome to my site",
+  "description": "Welcome to the Tutorials Showcase, your gateway to mastering new skills, exploring innovative ideas, and transforming concepts into actionable expertise. Whether you're a beginner seeking foundational knowledge or a seasoned learner diving deeper into advanced topics, our curated tutorials cater to every step of your journey. From hands-on guides to interactive lessons, this collection is designed to inspire, educate, and empower you to achieve your goals. Let’s embark on this learning adventure together!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/docs/category/tutorials"
+  }
+}

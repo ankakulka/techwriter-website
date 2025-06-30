@@ -1,0 +1,180 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-1d2": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-ada": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs/tags-fce": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/animation-208": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-animation-4-bc-167"
+  },
+  "/docs/tags/beginner-python-b50": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-beginner-python-030-d0b"
+  },
+  "/docs/tags/categories-10a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-categories-135-35f"
+  },
+  "/docs/tags/coding-5a0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-coding-350-450"
+  },
+  "/docs/tags/css-49a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-css-8-a-9-a9a"
+  },
+  "/docs/tags/hugo-bd3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-hugo-480-530"
+  },
+  "/docs/tags/image-editing-427": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-image-editing-5-d-9-db8"
+  },
+  "/docs/tags/layout-c7a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-layoutd-14-b88"
+  },
+  "/docs/tags/legibility-60f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-legibilityc-2-e-a04"
+  },
+  "/docs/tags/python-954": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-python-888-8bf"
+  },
+  "/docs/tags/python-3-456": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-python-30-d-1-49d"
+  },
+  "/docs/tags/readability-2b5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-readability-195-c81"
+  },
+  "/docs/tags/setting-text-aa2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-setting-text-48-a-9fb"
+  },
+  "/docs/tags/ssg-d5b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-ssgc-27-f33"
+  },
+  "/docs/tags/static-site-generator-2df": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-static-site-generator-068-de5"
+  },
+  "/docs/tags/svg-de7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-svg-3-de-adb"
+  },
+  "/docs/tags/tags-bc5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-tags-6-f-9-260"
+  },
+  "/docs/tags/taxonomy-c55": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-taxonomy-250-40b"
+  },
+  "/docs-dc3": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/tutorials-aaa": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-tutorials-2-fc-0e4"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/tutorials/AI-chatbot-1c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-ai-chatbot-1-bf-af8"
+  },
+  "/docs/tutorials/Create-Hugo-page-7c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-create-hugo-page-52-c-544"
+  },
+  "/docs/tutorials/CSS-animation-bae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-css-animation-3-a-3-b93"
+  },
+  "/docs/tutorials/python-tutorials-2d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-python-tutorialsf-6-a-396"
+  },
+  "/docs/tutorials/readability-4c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-readability-847-efa"
+  },
+  "/docs/tutorials/Taxonomy-22c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-taxonomy-6-d-1-ad6"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

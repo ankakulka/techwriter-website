@@ -1,0 +1,47 @@
+{
+  "id": "tutorials/Create-Hugo-page",
+  "title": "Create a new page using Hugo Static Site Generator",
+  "description": "USE CASE",
+  "source": "@site/docs/tutorials/Create-Hugo-page.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/Create-Hugo-page",
+  "permalink": "/docs/tutorials/Create-Hugo-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/Create-Hugo-page.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Hugo",
+      "permalink": "/docs/tags/hugo"
+    },
+    {
+      "inline": true,
+      "label": "SSG",
+      "permalink": "/docs/tags/ssg"
+    },
+    {
+      "inline": true,
+      "label": "Static Site Generator",
+      "permalink": "/docs/tags/static-site-generator"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create a new page using Hugo Static Site Generator",
+    "tags": [
+      "Hugo",
+      "SSG",
+      "Static Site Generator"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSS Animation Tutorial",
+    "permalink": "/docs/tutorials/CSS-animation"
+  },
+  "next": {
+    "title": "Taxonomy",
+    "permalink": "/docs/tutorials/Taxonomy"
+  }
+}

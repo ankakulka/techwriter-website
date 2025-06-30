@@ -1,0 +1,61 @@
+{
+  "id": "tutorials/python-tutorials",
+  "title": "Convert image format using Python",
+  "description": "Working with PDF files can a pain...but it doesn't have to be.",
+  "source": "@site/docs/tutorials/python-tutorials.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/python-tutorials",
+  "permalink": "/docs/tutorials/python-tutorials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/python-tutorials.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "inline": true,
+      "label": "python3",
+      "permalink": "/docs/tags/python-3"
+    },
+    {
+      "inline": true,
+      "label": "beginner-python",
+      "permalink": "/docs/tags/beginner-python"
+    },
+    {
+      "inline": true,
+      "label": "image-editing",
+      "permalink": "/docs/tags/image-editing"
+    },
+    {
+      "inline": true,
+      "label": "coding",
+      "permalink": "/docs/tags/coding"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Convert image format using Python",
+    "tags": [
+      "python",
+      "python3",
+      "beginner-python",
+      "image-editing",
+      "coding"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Make an AI chatbot",
+    "permalink": "/docs/tutorials/AI-chatbot"
+  },
+  "next": {
+    "title": "CSS Animation Tutorial",
+    "permalink": "/docs/tutorials/CSS-animation"
+  }
+}

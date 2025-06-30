@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/AI-chatbot",
+              "path": "/docs/tutorials/AI-chatbot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/Create-Hugo-page",
+              "path": "/docs/tutorials/Create-Hugo-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/CSS-animation",
+              "path": "/docs/tutorials/CSS-animation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/python-tutorials",
+              "path": "/docs/tutorials/python-tutorials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/readability",
+              "path": "/docs/tutorials/readability",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/Taxonomy",
+              "path": "/docs/tutorials/Taxonomy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/docs/category/tutorials",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

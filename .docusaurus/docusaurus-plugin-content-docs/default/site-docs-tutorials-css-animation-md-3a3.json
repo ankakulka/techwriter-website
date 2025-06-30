@@ -1,0 +1,54 @@
+{
+  "id": "tutorials/CSS-animation",
+  "title": "CSS Animation Tutorial",
+  "description": "Why create SVG animations using CSS?",
+  "source": "@site/docs/tutorials/CSS-animation.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/CSS-animation",
+  "permalink": "/docs/tutorials/CSS-animation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/CSS-animation.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CSS",
+      "permalink": "/docs/tags/css"
+    },
+    {
+      "inline": true,
+      "label": "SVG",
+      "permalink": "/docs/tags/svg"
+    },
+    {
+      "inline": true,
+      "label": "animation",
+      "permalink": "/docs/tags/animation"
+    },
+    {
+      "inline": true,
+      "label": "coding",
+      "permalink": "/docs/tags/coding"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "CSS Animation Tutorial",
+    "tags": [
+      "CSS",
+      "SVG",
+      "animation",
+      "coding"
+    ],
+    "summary": "CSS tutorial for users with some HTML and CSS knowledge"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Convert image format using Python",
+    "permalink": "/docs/tutorials/python-tutorials"
+  },
+  "next": {
+    "title": "Create a new page using Hugo Static Site Generator",
+    "permalink": "/docs/tutorials/Create-Hugo-page"
+  }
+}

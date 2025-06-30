@@ -1,0 +1,61 @@
+{
+  "id": "tutorials/convert-image-format-PY",
+  "title": "Convert image format using Python",
+  "description": "There's plenty of image editing software out there, most notably Photoshop -",
+  "source": "@site/docs/tutorials/convert-image-format-PY.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/convert-image-format-PY",
+  "permalink": "/docs/tutorials/convert-image-format-PY",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/convert-image-format-PY.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "inline": true,
+      "label": "python3",
+      "permalink": "/docs/tags/python-3"
+    },
+    {
+      "inline": true,
+      "label": "beginner-python",
+      "permalink": "/docs/tags/beginner-python"
+    },
+    {
+      "inline": true,
+      "label": "image-editing",
+      "permalink": "/docs/tags/image-editing"
+    },
+    {
+      "inline": true,
+      "label": "coding",
+      "permalink": "/docs/tags/coding"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Convert image format using Python",
+    "tags": [
+      "python",
+      "python3",
+      "beginner-python",
+      "image-editing",
+      "coding"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Make an AI chatbot",
+    "permalink": "/docs/tutorials/AI-chatbot"
+  },
+  "next": {
+    "title": "CSS Animation Tutorial",
+    "permalink": "/docs/tutorials/CSS-animation"
+  }
+}

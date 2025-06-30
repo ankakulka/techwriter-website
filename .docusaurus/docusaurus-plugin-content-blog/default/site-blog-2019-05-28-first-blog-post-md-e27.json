@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/first-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+  "source": "@site/blog/2019-05-28-first-blog-post.md",
+  "title": "First Blog Post",
+  "description": "As an experienced technical writer in SaaS and API documentation, I bring a blend",
+  "date": "2019-05-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.31,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}

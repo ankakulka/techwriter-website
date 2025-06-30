@@ -1,0 +1,49 @@
+{
+  "id": "tutorials/readability",
+  "title": "Readability",
+  "description": "Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility simply means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.",
+  "source": "@site/docs/tutorials/readability.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/readability",
+  "permalink": "/docs/tutorials/readability",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/readability.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "readability",
+      "permalink": "/docs/tags/readability"
+    },
+    {
+      "inline": true,
+      "label": "legibility",
+      "permalink": "/docs/tags/legibility"
+    },
+    {
+      "inline": true,
+      "label": "setting text",
+      "permalink": "/docs/tags/setting-text"
+    },
+    {
+      "inline": true,
+      "label": "layout",
+      "permalink": "/docs/tags/layout"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Readability",
+    "tags": [
+      "readability",
+      "legibility",
+      "setting text",
+      "layout"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Taxonomy",
+    "permalink": "/docs/tutorials/Taxonomy"
+  }
+}

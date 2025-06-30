@@ -1,0 +1,47 @@
+{
+  "id": "tutorials/Taxonomy",
+  "title": "Taxonomy",
+  "description": "Before you start: why should you create a taxonomy?",
+  "source": "@site/docs/tutorials/Taxonomy.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/Taxonomy",
+  "permalink": "/docs/tutorials/Taxonomy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/Taxonomy.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "taxonomy",
+      "permalink": "/docs/tags/taxonomy"
+    },
+    {
+      "inline": true,
+      "label": "categories",
+      "permalink": "/docs/tags/categories"
+    },
+    {
+      "inline": true,
+      "label": "tags",
+      "permalink": "/docs/tags/tags"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Taxonomy",
+    "tags": [
+      "taxonomy",
+      "categories",
+      "tags"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a new page using Hugo Static Site Generator",
+    "permalink": "/docs/tutorials/Create-Hugo-page"
+  },
+  "next": {
+    "title": "Readability",
+    "permalink": "/docs/tutorials/readability"
+  }
+}
