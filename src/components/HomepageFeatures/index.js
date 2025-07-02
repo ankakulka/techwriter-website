@@ -5,7 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Technical Writing',
-    Svg: require('@site/static/img/AK-pen.svg').default,
+    Svg: require('@site/static/img/b-remote.svg').default,
+    
     description: (
       <ul>
         <li>User Guides</li>
@@ -16,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'Content Design',
-    Svg: require('@site/static/img/AK-comp.svg').default,
+    Svg: require('@site/static/img/b-analytics.svg').default,
     description: (
       <>
       <ul>
@@ -29,7 +30,7 @@ const FeatureList = [
   },
   {
     title: 'Visual Design',
-    Svg: require('@site/static/img/AK-toolbox.svg').default,
+    Svg: require('@site/static/img/b-unbox.svg').default,
     description: (
       <>
       <ul>
