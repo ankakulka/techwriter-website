@@ -4,7 +4,7 @@ title: "Convert image format using Python"
 tags: ['python','python3', 'beginner-python', 'image-editing', 'coding', ' automate']
 ---
 
-#  Use Python to automate your daily tasks
+# Use Python to automate your daily tasks
 
 In the days of ChatGPT automating your daily tasks has never been so easy. You can supercharge your automation workflows if you gain some basic understanding of programming. Python is a beginner-friendly programming language and can be used in multiple scenarios.
 Here are some use cases to give you a taste of what you can do:
@@ -16,16 +16,16 @@ Here are some use cases to give you a taste of what you can do:
 Once you understand the basics, you can then expand this knowledge to build your own custom scripts. 
 Even if you ask ChatGPT to write a script for you, some understanding of basic concepts will be useful, so that you can be more specific in your instructions and potentially catch errors. 
 
-> **Note** Install Python version 3and Visual Studio Code. If you're on a Mac, or a newer version of Windows, Pythons should alrady be pre-installed. 
+> **Note** Install Python version 3and Visual Studio Code. If you're on a Mac or a newer version of Windows, Pythons should already be pre-installed. 
 
 <!-- CHEck by .... -->
 
 ## Merge PDFs Using Python
 
-Working with PDF files can a pain...but it doesn't have to be. 
+Working with PDF files can be a pain...but it doesn't have to be.
 You don't even need any expensive software to handle PDFs: just a few lines of Python code will suffice.
 
-In this quick tutorial I'll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.
+In this tutorial, I'll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.
 This method is much quicker and cheaper and all the tools used here are free. 
 
 1. **Organize your files**<br/>
@@ -41,7 +41,7 @@ This method is much quicker and cheaper and all the tools used here are free.
 3. **Import PyPDF2 library**<br/>
 
 To be able to work with the tools included in the library we've just imported, we need to add them to our Python file.
-Go to Visual Studion code, and create a new file "app.py".
+Go to Visual Studio code, and create a new file "app.py".
 Then add this code to the file:
 
 ```python 
@@ -53,21 +53,32 @@ from PyPDF import PdfMerger
 
 We are now ready to work with the tools included in the PyPDF library. 
 One of those is called PdfMerger, and as you might have guessed, allows us to merge PDFs. 
-We need an container to hold our files in, as you would in a folder. In programming this is called an object. 
+We need a container to hold our files in, as you would in a folder. In programming, this is called an object. 
 
-Create an object to hold the PdfMerger class. <br/>
+Create an object called "merger".<br/>
+By adding the equal sign, I tell Python that "merger" is a single object that is part of the PdfMerger class. 
+A class is a blueprint used to create an object based on it.
+<!-- For clarity, I called this object "merger" but you could call it something else, as long as the Python naming convention allows it.  -->
 
 ```python
 merger = PdfMerger()
 ```
 
-4. Loop over the PDF files. 
-Use `append` method to attach files in the consecutive order.<br/>
+4. **Combine the files**
+
+As in real life, we can use objects in different ways. Python allows us certain actions - these are called methods. 
+One of those methods is "append".
+
+This is called a method, and there are specific methods we can use built into the language. 
+ 
+We'll use `append` method to attach files in the the consecutive order.<br/>
+As we want all files appended to the merger object 
 
 ```python
 for pdf in ["file1.pdf", "file2.pdf", "file3.pdf", "file4.pdf"]:
     merger.append(pdf)
 ```
+
 5. Now our files are ordered, but we want to create a new file containing all of them. 
 We use a `write()` method to create a new file:<br/>
 
@@ -159,7 +170,7 @@ img = Image.open('some-pic.jpg')
 im.save('converted-pic.png')
 ```
 
-## Play with Image Filters
+<!-- ## Play with Image Filters
 
 Pillow comes with some pre-defined filters so you can play around with those without much hassle. 
 These filters include: 
@@ -218,4 +229,4 @@ for filename in os.listdir(path):
 
     edit.save(f'.{pathOut}/{clean_name}_max.jpg')
 ```
-
+ -->
