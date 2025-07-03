@@ -42,10 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
+  "/contact-7ad": {
+    "__comp": "__comp---site-src-pages-contact-jsxa-1-a-0d4",
+    "__context": {
+      "plugin": "plugin---contacta-74-4e6"
+    },
+    "config": "config---contact-5-e-9-d2a"
+  },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---contacta-74-4e6"
     },
     "content": "content---markdown-page-393-028"
   },
@@ -173,8 +180,8 @@
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---contacta-74-4e6"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---contact-5-e-9-d2a"
   }
 }

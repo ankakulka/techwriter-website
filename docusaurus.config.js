@@ -148,7 +148,7 @@ const config = {
             items: [
               {
                 label: 'Drop me a line',
-                href: '',
+                href: '/contact',
 
               },
 

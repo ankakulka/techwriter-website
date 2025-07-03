@@ -133,8 +133,8 @@ export default {
           "title": "Get in touch",
           "items": [
             {
-              "label": "Email",
-              "href": "ankakulczycka@gmail.com"
+              "label": "Drop me a line",
+              "href": "/contact"
             }
           ]
         }

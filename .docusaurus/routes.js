@@ -38,6 +38,11 @@ export default [
     exact: true
   },
   {
+    path: '/contact',
+    component: ComponentCreator('/contact', '7ad'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
