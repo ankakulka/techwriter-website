@@ -82,3 +82,14 @@ ul, ol {
 li {
   text-align: left; /* Ensures individual list items are aligned left */
 }
+
+
+
+
+.hero__title {
+  color: #ABE5D0;
+}
+
+h1 {
+  color: #ABE5D0;
+}

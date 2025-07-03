@@ -5,7 +5,7 @@ import styles from './Contact.module.css';
 
 function Contact() {
   return (
-    <Layout title="Contact Us">
+    <Layout title="Get in touch">
       <div className="container margin-vert--lg">
         <h1>Contact Us</h1>
         <form action="https://fabform.io/f/QuwoIpv" method="POST">

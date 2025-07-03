@@ -63,6 +63,7 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-  background-color: #DCF4E9;
+  background-color: #ABE5D0;
   color: #0B1728;
+  align-items: center;
 }

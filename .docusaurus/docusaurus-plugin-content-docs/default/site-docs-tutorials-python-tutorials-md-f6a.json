@@ -1,7 +1,7 @@
 {
   "id": "tutorials/python-tutorials",
   "title": "Convert image format using Python",
-  "description": "Working with PDF files can a pain...but it doesn't have to be.",
+  "description": "Merge PDFs Using Python",
   "source": "@site/docs/tutorials/python-tutorials.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/python-tutorials",

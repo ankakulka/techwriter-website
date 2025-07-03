@@ -7,7 +7,7 @@ tags: ['python','python3', 'beginner-python', 'image-editing', 'coding']
 #  Use Python to automate your daily, boring tasks and optimize workflows
 
 
-# Merge PDFs Using Python
+## Merge PDFs Using Python
 
 Working with PDF files can a pain...but it doesn't have to be. 
 You don't even need any expensive software to handle PDFs: just a few lines of Python code will suffice.
