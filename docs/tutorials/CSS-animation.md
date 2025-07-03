@@ -12,7 +12,7 @@ They will look just as great on a tiny mobile screen as on a huge retina display
 
 Thanks to the animation features in CSS3 we can create simple (yet enticing!) animations that are easy on your page without the need to run JavaScript.
 
-> This animation tutorial is suitable for everyone with some HTML and CSS knowledge. 
+> This animation tutorial is suitable for everyone with basic HTML and CSS knowledge. 
 > I will explain how to create a custom animation to create cool effects.
 > You'll need a vector editing program and a text editor. 
  
@@ -28,6 +28,8 @@ Once you've saved your image as an SVG, open it in a text editor (such as Notepa
 
 Codepen is an online editor that allows you to create and share code snippets. I find it particularly useful for working with CSS animation as you can see the effects immediately, rather than having to constantly switch between the text editor and the browser as you would have to do when working locally. 
 You don't even need to create an account! 
+
+A project is calles a "pen" in Codepen. 
 
 1. Select **CREATE** > **Pen** in the top left-hand corner.
 2. Paste the code you copied from the text editor into the HTML section. 

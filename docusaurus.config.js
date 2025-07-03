@@ -50,8 +50,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -108,16 +108,24 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Tutorials',
             items: [
               {
-                label: 'Tutorials',
-                to: '/docs/intro/',
+                label: 'AI chatbot',
+                to: '/docs/tutorials/AI-chatbot/',
+              },
+                            {
+                label: 'Python tutorials',
+                to: '/docs/tutorials/python-tutorials/',
+              },
+                            {
+                label: 'CSS Animation',
+                to: '/docs/tutorials/CSS-animation/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Find me on:',
             items: [
               {
                 label: 'LinkedIn',
@@ -127,17 +135,23 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/ankakulka',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-
               {
                 label: 'Behance',
                 href: 'https://www.behance.net/anna_kul',
 
               },
+
+            ],
+          },
+          {
+            title: 'Get in touch',
+            items: [
+              {
+                label: 'Drop me a line',
+                href: '',
+
+              },
+
             ],
           },
         ],

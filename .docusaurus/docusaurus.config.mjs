@@ -47,8 +47,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "./sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -97,16 +96,24 @@ export default {
       "style": "light",
       "links": [
         {
-          "title": "Docs",
+          "title": "Tutorials",
           "items": [
             {
-              "label": "Tutorials",
-              "to": "/docs/intro/"
+              "label": "AI chatbot",
+              "to": "/docs/tutorials/AI-chatbot/"
+            },
+            {
+              "label": "Python tutorials",
+              "to": "/docs/tutorials/python-tutorials/"
+            },
+            {
+              "label": "CSS Animation",
+              "to": "/docs/tutorials/CSS-animation/"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Find me on:",
           "items": [
             {
               "label": "LinkedIn",
@@ -115,15 +122,19 @@ export default {
             {
               "label": "GitHub",
               "href": "https://github.com/ankakulka"
+            },
+            {
+              "label": "Behance",
+              "href": "https://www.behance.net/anna_kul"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "Get in touch",
           "items": [
             {
-              "label": "Behance",
-              "href": "https://www.behance.net/anna_kul"
+              "label": "Email",
+              "href": "ankakulczycka@gmail.com"
             }
           ]
         }
