@@ -1,7 +1,7 @@
 {
   "id": "tutorials/python-tutorials",
   "title": "Convert image format using Python",
-  "description": "Merge PDFs Using Python",
+  "description": "In the days of ChatGPT automating your daily tasks has never been so easy. You can supercharge your automation workflows if you gain some basic understanding of programming. Python is a beginner-friendly programming language and can be used in multiple scenarios.",
   "source": "@site/docs/tutorials/python-tutorials.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/python-tutorials",
@@ -33,6 +33,11 @@
       "inline": true,
       "label": "coding",
       "permalink": "/docs/tags/coding"
+    },
+    {
+      "inline": true,
+      "label": " automate",
+      "permalink": "/docs/tags/automate"
     }
   ],
   "version": "current",
@@ -45,7 +50,8 @@
       "python3",
       "beginner-python",
       "image-editing",
-      "coding"
+      "coding",
+      " automate"
     ]
   },
   "sidebar": "tutorialSidebar",

@@ -57,5 +57,11 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 **`Result`**: Your page is now ready to be uploaded to GitHub. 
 
-**Next step**: Refer to the *Upload hugo page to GitHub*.   
-**Troubleshooting**: Refer to the *Common Hugo Errors*. 
+## Next step
+
+*Upload Hugo page to GitHub*
+
+
+## Troubleshooting
+
+*Common Hugo Errors*

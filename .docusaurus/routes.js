@@ -49,11 +49,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1d2'),
+    component: ComponentCreator('/docs', 'aa9'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ada'),
+        component: ComponentCreator('/docs', '774'),
         routes: [
           {
             path: '/docs/tags',
@@ -63,6 +63,11 @@ export default [
           {
             path: '/docs/tags/animation',
             component: ComponentCreator('/docs/tags/animation', '208'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/automate',
+            component: ComponentCreator('/docs/tags/automate', '974'),
             exact: true
           },
           {

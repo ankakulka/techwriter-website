@@ -56,13 +56,13 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-1d2": {
+  "/docs-aa9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-ada": {
+  "/docs-774": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
@@ -73,6 +73,10 @@
   "/docs/tags/animation-208": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-animation-4-bc-167"
+  },
+  "/docs/tags/automate-974": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-automate-3-b-9-fde"
   },
   "/docs/tags/beginner-python-b50": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
