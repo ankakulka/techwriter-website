@@ -70,6 +70,15 @@ export default {
     ]
   ],
   "themeConfig": {
+    "algolia": {
+      "appId": "3PLF74FVXK",
+      "apiKey": "0a33e3e73af276da9841b744c3dabcca",
+      "indexName": "Personal Docs Website",
+      "contextualSearch": true,
+      "placeholder": "Search for a term",
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Home",

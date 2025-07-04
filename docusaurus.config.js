@@ -3,10 +3,16 @@
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
+require('dotenv').config();
+
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+
+
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -76,11 +82,24 @@ const config = {
   ],
 
 
-
+// module.exports = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+    algolia: {
+
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+        contextualSearch: true,        // Optional, enables contextual search
+        placeholder: 'Search for a term'
+        // Optional: Other Algolia options
+        // searchPagePath: 'search',   // Optional: enables standalone search page at /search
+      },
+
+
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -163,5 +182,8 @@ const config = {
       },
     }),
 };
+
+// };
+module.exports = config;
 
 export default config;

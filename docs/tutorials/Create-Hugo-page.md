@@ -9,7 +9,7 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 ## **TIME TO COMPLETE: est. 30 min**
 
-1. Open Visual Studio Code.   
+1. Open Visual Studio Code.
 2. Go to Open folder and search for the *`tech-scribe`* folder.  
    <!-- ![UI screenshot](/images/hugo-step1.png) -->
 

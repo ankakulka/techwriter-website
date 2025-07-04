@@ -24,7 +24,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.8.1",
-    "@docusaurus/types": "3.8.1"
+    "@docusaurus/types": "3.8.1",
+    "dotenv": "^17.0.1"
   },
   "browserslist": {
     "production": [

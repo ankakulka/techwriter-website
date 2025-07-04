@@ -6,12 +6,15 @@ tags: ['python','python3', 'beginner-python', 'image-editing', 'coding', ' autom
 
 # Use Python to automate your daily tasks
 
-In the days of ChatGPT automating your daily tasks has never been so easy. You can supercharge your automation workflows if you gain some basic understanding of programming. Python is a beginner-friendly programming language and can be used in multiple scenarios.
+In the days of ChatGPT, automating your daily tasks has never been so easy. You can supercharge your automation workflows if you gain some basic understanding of programming. Python is a beginner-friendly programming language and can be used in multiple scenarios.
 Here are some use cases to give you a taste of what you can do:
 
-- Merge PDFs Using Python
+- Merge PDFs using Python
 - Convert image format using Python
 - Enhance your images
+- Check website status
+- Backup important files
+
 
 Once you understand the basics, you can then expand this knowledge to build your own custom scripts. 
 Even if you ask ChatGPT to write a script for you, some understanding of basic concepts will be useful, so that you can be more specific in your instructions and potentially catch errors. 

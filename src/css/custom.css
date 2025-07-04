@@ -93,3 +93,20 @@ li {
 h1 {
   color: #ABE5D0;
 }
+
+
+/* ALGOLIA SEARCH */
+
+/* Make the search bar background black and text white */
+/* .DocSearch-Button {
+  background: #000 !important;
+  color: #fff !important;
+  border: none;
+} */
+
+/* Change placeholder text color */
+.DocSearch-Button-Placeholder {
+  color: #0B1728 !important;
+}
+
+

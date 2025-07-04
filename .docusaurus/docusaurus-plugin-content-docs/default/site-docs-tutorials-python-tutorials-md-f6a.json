@@ -1,7 +1,7 @@
 {
   "id": "tutorials/python-tutorials",
   "title": "Convert image format using Python",
-  "description": "In the days of ChatGPT automating your daily tasks has never been so easy. You can supercharge your automation workflows if you gain some basic understanding of programming. Python is a beginner-friendly programming language and can be used in multiple scenarios.",
+  "description": "In the days of ChatGPT, automating your daily tasks has never been so easy. You can supercharge your automation workflows if you gain some basic understanding of programming. Python is a beginner-friendly programming language and can be used in multiple scenarios.",
   "source": "@site/docs/tutorials/python-tutorials.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/python-tutorials",

@@ -48,6 +48,11 @@ export default [
     exact: true
   },
   {
+    path: '/search',
+    component: ComponentCreator('/search', '5de'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs', 'aa9'),
     routes: [
