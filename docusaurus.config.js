@@ -89,9 +89,9 @@ const config = {
     ({
 
           algolia: {
-            appId: process.env.ALGOLIA_APP_ID,
-            apiKey: process.env.ALGOLIA_API_KEY,
-            indexName: process.env.ALGOLIA_INDEX_NAME,
+            appId: '3PLF74FVXK',
+            apiKey: '0a33e3e73af276da9841b744c3dabcca',
+            indexName: 'Personal Docs Website',
             contextualSearch: true,
             placeholder: 'Search for a term'
           },
