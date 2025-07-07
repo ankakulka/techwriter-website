@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # About me
 
-Senior Technical Writer and Content Designer with background in Visual Design
+Senior Technical Writer and Content Designer with background in Visual Design and front-end skills
 
 ## Career Highlights
 

@@ -88,16 +88,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
-    algolia: {
+          algolia: {
+            appId: process.env.ALGOLIA_APP_ID,
+            apiKey: process.env.ALGOLIA_API_KEY,
+            indexName: process.env.ALGOLIA_INDEX_NAME,
+            contextualSearch: true,
+            placeholder: 'Search for a term'
+          },
 
-      appId: process.env.ALGOLIA_APP_ID,
-      apiKey: process.env.ALGOLIA_API_KEY,
-      indexName: process.env.ALGOLIA_INDEX_NAME,
-        contextualSearch: true,        // Optional, enables contextual search
-        placeholder: 'Search for a term'
-        // Optional: Other Algolia options
-        // searchPagePath: 'search',   // Optional: enables standalone search page at /search
-      },
 
 
       // Replace with your project's social card

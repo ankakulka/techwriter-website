@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "About me",
-  "description": "Senior Technical Writer and Content Designer with background in Visual Design",
+  "description": "Senior Technical Writer and Content Designer with background in Visual Design and front-end skills",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
