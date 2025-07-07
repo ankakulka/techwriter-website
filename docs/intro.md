@@ -9,7 +9,7 @@ Senior Technical Writer and Content Designer with background in Visual Design
 
 ## Career Highlights
 
-🏆 Documentation efforts at Cleverbirdge recognized with DokuSpark award <br/>
+🏆 Documentation efforts at Cleverbridge recognized with DokuSpark award <br/>
 <!-- 🎆  -->
 
 <!-- 📚 Led comprehensive documentation 
