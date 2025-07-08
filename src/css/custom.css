@@ -6,7 +6,6 @@
 
 /* CUSTOM COLORS */
 
-
 /* DARK NAVY #0B1728  */
 
 /* LIGHT MING #DCF4E9 */
@@ -95,14 +94,27 @@ h1 {
 }
 
 
+
 /* ALGOLIA SEARCH */
 
-/* Make the search bar background black and text white */
-/* .DocSearch-Button {
-  background: #000 !important;
-  color: #fff !important;
-  border: none;
-} */
+ /* Chnage modal colors */
+
+
+
+
+
+/* Make the search bar background  white */
+.DocSearch-Button {
+  background: #fff t;
+  color: #0B1728 !important;
+  border: #0B1728;
+}
+
+/* DARK NAVY #0B1728  */
+
+/* LIGHT MING #DCF4E9 */
+
+/* MINT #ABE5D0 */
 
 /* Change placeholder text color */
 .DocSearch-Button-Placeholder {
