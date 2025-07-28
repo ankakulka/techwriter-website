@@ -28,7 +28,7 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://tech-content.netlify.app",
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
@@ -64,21 +64,12 @@ export default {
           "onUntruncatedBlogPosts": "warn"
         },
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "C:\\Users\\annak\\repos\\my-website\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
-    "algolia": {
-      "appId": "3PLF74FVXK",
-      "apiKey": "0a33e3e73af276da9841b744c3dabcca",
-      "indexName": "Personal Docs Website",
-      "contextualSearch": true,
-      "placeholder": "Search for a term",
-      "searchParameters": {},
-      "searchPagePath": "search"
-    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Home",

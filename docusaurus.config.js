@@ -26,7 +26,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://tech-content.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -75,7 +75,7 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
@@ -88,13 +88,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
-          algolia: {
-            appId: '3PLF74FVXK',
-            apiKey: '0a33e3e73af276da9841b744c3dabcca',
-            indexName: 'Personal Docs Website',
-            contextualSearch: true,
-            placeholder: 'Search for a term'
-          },
+              // algolia: {
+              //   appId: '3PLF74FVXK',
+              //   apiKey: '0a33e3e73af276da9841b744c3dabcca',
+              //   indexName: 'personal_docs_website',
+              //   contextualSearch: true,
+              //   placeholder: 'Search for a term'
+              // },
 
 
 

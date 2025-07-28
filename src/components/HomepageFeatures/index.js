@@ -19,20 +19,20 @@ const FeatureList = [
     title: 'Content Design',
     Svg: require('@site/static/img/b-analytics.svg').default,
     description: (
-      <>
+
       <ul>
         <li>Accessibility</li>
         <li>User Experience</li>
         <li>Information Architecture</li>
       </ul>
-      </>
+
     ),
   },
   {
     title: 'Visual Design',
     Svg: require('@site/static/img/b-unbox.svg').default,
     description: (
-      <>
+
       <ul>
         <li>Infographics</li>
         <li>Diagrams</li>
@@ -40,7 +40,7 @@ const FeatureList = [
       </ul>
       
         
-      </>
+
     ),
   },
 ];
