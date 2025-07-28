@@ -34,17 +34,16 @@ Adding large margins and splitting the text into smaller columns is a good solut
 
 > **Tip:** A line should have a minimum of six words - different rules might apply for German and other languages...
 
-<!-- ![Guardian article](/images/guardian.png)
-
-![New Yorker article](/images/new-yorker.png)
-
-![Die Zeit article](/images/dieZeit.png)  -->
+![New Yorker](/img/news/new-yorker.png)
 
 The New Yorker and the Guardian used a similar layout, adding lots of white space to the right. 
 Die Zeit text is centered, but it is left-aligned. It also shows that 'white space' does not need to be white. Sometimes also called 'negative space' it might even be pink-ish/beige, as in the case of Financial Times:
-<!-- ![Financial Times](/images/ft.png) -->
 
- The most important thing is to be able to focus without the clutter of ads and popups distracting from the text.
+![Financial Times](/img/news/ft.png)
+
+![Guardian Logo](/img/news/guardian.png)
+
+The most important thing is to be able to focus without the clutter of ads and popups distracting from the text.
 
 ## Adding visual interest to the text
 
