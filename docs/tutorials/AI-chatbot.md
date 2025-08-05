@@ -50,8 +50,7 @@ Chatbots can be grouped into two main categories:
 
 ## Prerequisites
 
-    
-  You don't need to be an expert in n8n, nor in building chatbots \- our mission to simplify technical complexity for you.   
+  You don't need to be an expert in n8n, nor in building chatbots \- our mission to simplify technical complexity for you.
   It would be helpful if you have some basic familiarity with:  
 * building workflows in n8n  
 * HTTP terms, LLM, vector embeddings, vector store:   
@@ -74,20 +73,20 @@ This document doesn't need to be formatted in any particular way, almost any tex
 Similar scenarios would include using internal company data and building a chat helping to onboard new employees or reply to customers’ questions relating to company-specific policies.   
 Any scenario that requires a user to sift through a large document to find certain information is a great opportunity to simplify the process and build a chatbot.
 
-   
 We’ll use the combination of LLM and Vector Embeddings from OpenAI with the Supabase Vector Store. The data from the University website is in JSON format but you can also work with PDFs, ePub, docx, CSV, or even plain text files. For this workflow, the document needs to be published online, without any access restrictions. This document needs to be inserted into the vector store.
 
 We’ll create two workflows:
 
 1. Insert your document into the Supabase Vector Store.  
 2. Create the AI chatbot using OpenAI LLM.   
-   
 
 ### 1st workflow: Insert your document into the Supabase Vector Store
 
 In this workflow, we'll insert a document containing our custom data and insert it into the vector store. Vector embeddings allow us to convert a text document into vectors. Thanks to the text splitter the text is sliced into manageable chunks. At the end of the workflow, our database table is filled, and we can reference processed vector data to build the actual chatbot.
 
 <!-- ADD IMAGE -->
+![Supabase Trigger](/img/chatbot/supabaseTrigger.png)
+
 
 1. **Add a manual trigger.**   
    Click the *Add first step.* In the nodes panel select *Manually*.  
@@ -99,7 +98,9 @@ In this workflow, we'll insert a document containing our custom data and insert 
    In the *Operation Mode*, select *Insert Documents*.  
    In the *Table Name* dropdown, select your Supabase table.   
    <!-- ![][image2]   -->
-    <!-- ![UI screenshot](/images/chatbot/vectorStore.png) -->
+   <!-- ![UI screenshot](/images/chatbot/vectorStore.png) -->
+    ![Vector Store](/img/chatbot/vectorStore.png)
+
 4. **Add OpenAI Embeddings.**  
    Click the **\+** button attached to the *Supabase Vector Store* node to add Vector embeddings. Embeddings from OpenAI is our pick, but you also have the option to easily integrate other embeddings if you prefer.   
 5. **Add Data Loader.**  
@@ -112,13 +113,14 @@ In this workflow, we'll insert a document containing our custom data and insert 
 
    Now that our document has been inserted into a Vector Store, we can create the actual AI chatbot in a new workflow.
 
-
 ### 2d workflow: Create AI chatbot 
 
 The second workflow is where we build the actual chatbot. We'll use the Question and Answer chain node to connect LLM and the vector store. You can also test the chatbot directly in the workflow Canvas.
 
 <!-- ![][image3] -->
 <!-- ![UI screenshot](/images/chatbot/workflow.png) -->
+![Workflow](/img/chatbot/workflow.png)
+
 
 1. **Add a manual trigger.**  
    Select *Manually* from the nodes panel so that the workflow starts when the user types a question in a chat window.
@@ -147,4 +149,3 @@ The second workflow is where we build the actual chatbot. We'll use the Question
    ## What’s next?
 
    To enhance the capabilities of your chatbot, you can easily extend it in n8n with tools such as a calculator, memory or by adding your own custom code.  
-   
